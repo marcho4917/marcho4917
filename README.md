@@ -4,3 +4,4 @@ This whole year has been under a big sign of programming. Below you will find pr
 
 ## What I've already learned from the Kodilla bootcamp: 
 
+(tech/1174949-512 (1).png)
