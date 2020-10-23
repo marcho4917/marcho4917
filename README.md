@@ -4,4 +4,4 @@ This whole year has been under a big sign of programming. Below you will find pr
 
 ## What I've already learned from the Kodilla bootcamp: 
 
-![picture alt](https://zapodaj.net/61b083f9d0fe6.png.html)
+![<a href=https://zapodaj.net/61b083f9d0fe6.png.html>iconfinder_html_308440.png</a>](https://zapodaj.net/61b083f9d0fe6.png.html)
