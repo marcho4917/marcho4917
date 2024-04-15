@@ -21,5 +21,5 @@ I am self-taught software tester who constantly wants to develop. I always care 
 
 ## My goals
 - Get a job as a software tester 💁
-- ISTQB Certificate (first exam, date: 8 May 2024) 🚀
-- Tests automation 🔎
+- ISTQB Certificate (pass first exam, date: 8 May 2024) 🚀
+- Master tests automation 🔎
